@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is a Yaktocat](https://avatars2.githubusercontent.com/u/38532308?s=460&v=4)
